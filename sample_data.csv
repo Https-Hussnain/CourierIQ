@@ -1,0 +1,9 @@
+order_id,courier,city,region,order_value,delivery_status,delivery_date
+1,Leopards,Lahore,Punjab,2500,Delivered,2024-01-01
+2,TCS,Karachi,Sindh,1800,Delivered,2024-01-02
+3,Leopards,Lahore,Punjab,3200,Delayed,2024-01-03
+4,BlueEx,Islamabad,Federal,4500,Delivered,2024-01-04
+5,TCS,Karachi,Sindh,1200,Failed,2024-01-05
+6,Leopards,Faisalabad,Punjab,2800,Delivered,2024-01-06
+7,BlueEx,Lahore,Punjab,3600,Delivered,2024-01-07
+8,TCS,Hyderabad,Sindh,900,Delayed,2024-01-08
